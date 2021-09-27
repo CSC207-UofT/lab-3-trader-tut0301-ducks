@@ -23,7 +23,7 @@ public class MonkeyTest {
 
     @Test(timeout = 50)
     public void TestGetPrice() {
-        assertEquals(8, m.getPrice());
+        assertEquals(6, m.getPrice());
     }
 
 }
