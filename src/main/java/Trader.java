@@ -97,6 +97,13 @@ public class Trader {
                 new Horse(),
                 new Horse(),
                 new Horse(),
+                new Tradable() {
+                    @Override
+                    public int getPrice() {
+                        return 10;
+                    }
+                }
+=======
                 // TODO: Add Tradable objects here!
                 new Hamster(),
                 new Monkey()
