@@ -13,7 +13,7 @@ public class HamsterTest {
 
     @Test(timeout = 50)
     public void TestSound() {
-        assertEquals("HAMSTER SOUND!", hammy.sound());
+        assertEquals("HAMSTER SOUND!!!", hammy.sound());
     }
 
     @Test(timeout = 50)
