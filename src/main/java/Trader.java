@@ -97,6 +97,9 @@ public class Trader {
                 new Horse(),
                 new Horse(),
                 new Horse(),
+                new Goat(),
+                new Goat()
+                new Hamster()
                 new Tradable() {
                     @Override
                     public int getPrice() {
