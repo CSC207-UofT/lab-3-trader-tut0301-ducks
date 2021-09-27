@@ -103,7 +103,6 @@ public class Trader {
                         return 10;
                     }
                 }
-=======
                 // TODO: Add Tradable objects here!
                 new Hamster(),
                 new Monkey()
