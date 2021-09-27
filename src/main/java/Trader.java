@@ -99,6 +99,7 @@ public class Trader {
                 new Horse(),
                 new Goat(),
                 new Goat()
+                new Hamster()
         );
 
         /* Below, we've created two Traders. Their money, inventory, and
