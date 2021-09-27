@@ -97,6 +97,8 @@ public class Trader {
                 new Horse(),
                 new Horse(),
                 new Horse(),
+
+                new Cow()
                 new Goat(),
                 new Goat()
                 new Hamster()
